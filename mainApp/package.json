@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@gluon-framework/gluon": "^0.14.0",
+    "serve": "^14.2.0",
+    "serve-handler": "^6.1.5"
+  },
+  "scripts": {
+    "start": "node app.mjs"
+  }
+}
